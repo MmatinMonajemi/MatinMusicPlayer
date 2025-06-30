@@ -24,7 +24,7 @@ Created by **Mohammad Matin Monajemi (M.Matin Monajemi)**
 ```bash
 sudo apt update
 sudo apt install qtbase5-dev qtmultimedia5-dev build-essential
-git clone https://github.com/YourUsername/MatinMusicPlayer.git
+git clone https://github.com/mmatinmonajemihttps://github.com/MmatinMonajemi/matinbrowser/MatinMusicPlayer.git
 cd MatinMusicPlayer
 qmake
 make
